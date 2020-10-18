@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 - **Learning Android Development**
 - **Second Year Undergrad Student**
 
+<br> </br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Haid-Faiz&&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=003366">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haid-Faiz&theme=radical&hide=glsl,python" />
+
 
 ## Languages & Tools that i know:
 
@@ -35,10 +38,12 @@ Here are some ideas to get you started:
 </p>
 
 
+<br> </br>
 
 ## Reach me out here:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/faizan-haider-3a4220193)](https://www.linkedin.com/in/faizan-haider-3a4220193)
+
 
 <p align="center"> 
   Visitor count<br>
