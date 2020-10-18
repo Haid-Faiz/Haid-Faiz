@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me:
 - **Learning Android Development**
-- **Second Year Undergrad Student**
+- **Second Year B.Tech (Information Technology) Undergrad Student**
 
 <br> </br>
 
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/faizan-haider-3a4220193)](https://www.linkedin.com/in/faizan-haider-3a4220193)
 
+<br> </br>
 
 <p align="center"> 
   Visitor count<br>
