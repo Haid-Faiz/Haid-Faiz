@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me:
 - **Learning Android Development**
-- **A Second Year Undergrad Student**
+- **Second Year Undergrad Student**
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Haid-Faiz&&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=191919">
