@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haid-Faiz&theme=radical&hide=glsl,python" />
 
-
-## Languages & Tools that i know:
+<br> </br>
+## Languages & Tools:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="50" height="50"/> 
