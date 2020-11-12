@@ -21,9 +21,16 @@ Here are some ideas to get you started:
 
 <br> </br>
 
+<!--
+we can pass different queries in below api. Like: hide, title_color, bg_color, etc. OR instead of manually customization of themes we can directly pass query
+like: theme=radical OR theme=algolia    
+Ex:
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haid-Faiz&theme=algolia&hide=html,Objective-C" />
+-->
+
 <img src="https://github-readme-stats.vercel.app/api?username=Haid-Faiz&&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=003366">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haid-Faiz&theme=radical&hide=glsl,python" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haid-Faiz&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=003366&hide=html,Objective-C" />
 
 <br> </br>
 ## Languages & Tools:
