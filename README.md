@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me:
 - **Learning Android Development**
-- **Second Year Undergrad Student persuing B.Tech (information technology)**
+- **Second year undergrad student persuing B.Tech (information technology)**
 
 <br> </br>
 
