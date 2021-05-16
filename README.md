@@ -37,9 +37,9 @@ Ex:
 ## Languages & Tools:
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Android_logo_2019.svg" alt="Android" width="65" height="60"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="70" height="60"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="60" height="55"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="Android" width="80" height="75"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="60" height="55"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="70" height="70"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="60" height="60"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Firebase" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Android" width="50" height="50"/>
