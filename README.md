@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me:
 - **Android Learner & Developer**
-- **DSC RTU Android Co-Lead**
+- **Ex-DSC RTU Android Co-Lead**
 - **Second year undergrad student persuing B.Tech (information technology)**
 
 <br> </br>
