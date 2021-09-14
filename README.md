@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## About me:
-- **Android Learner & Developer**
+- **Android Dev & Learner**
 - **Ex-DSC RTU Android Co-Lead**
-- **Second year undergrad student persuing B.Tech (information technology)**
+- **I'm currently looking for Android Development Internship in Growing StartUp**
+- **Third year undergrad student persuing B.Tech (information technology)**
 
 <br> </br>
 
