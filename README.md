@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me:
 - **Android Dev & Learner**
 - **Ex-DSC RTU Android Co-Lead**
-- **I'm currently looking for Android Development Internship in Growing StartUp**
+- **I'm currently looking for an Android Development Internship in Growing StartUp**
 - **Third year undergrad student persuing B.Tech (information technology)**
 
 <br> </br>
