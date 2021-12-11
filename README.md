@@ -1,17 +1,14 @@
 ### Hi there, I am Faizan Haider 👋
 
-## Currently enjoying working on Android & Kotlin.
-<img src="https://user-images.githubusercontent.com/56159740/145668468-410b7057-eb2f-42a4-a43a-29a678c4490f.png" height = "160" width="240">
-&nbsp;
+## Currently enjoying working on Android & Kotlin
+<img src="https://user-images.githubusercontent.com/56159740/145668468-410b7057-eb2f-42a4-a43a-29a678c4490f.png" height = "140" width="220">
 
 ## About me 👨‍💻
 - **Android Development Intern @MathonGo**
-- Ex-DSC RTU Android Co-Lead
-- SLOP2020 Open Source Contributor
-- Third year undergrad student persuing B.Tech (information technology)
-<!-- - **I'm currently looking for an Android Development Internship in Growing StartUp** -->
-&nbsp;
-
+- **Ex-DSC RTU Android Co-Lead**
+- **SLOP2020 Open Source Contributor**
+- **Third year undergrad student persuing B.Tech (information technology)**
+<!-- - **I'm currently looking for an Android Development Internship in Growing StartUp** -->  
 <table>
   <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=Haid-Faiz&&show_icons=true&theme=github_dark"> </td>
