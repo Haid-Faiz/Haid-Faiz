@@ -11,7 +11,7 @@
 <!-- - **I'm currently looking for an Android Development Internship in Growing StartUp** -->  
 <table>
   <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Haid-Faiz&&show_icons=true&theme=github_dark"> </td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Haid-Faiz&count_private=true&show_icons=true&theme=github_dark"> </td>
 <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haid-Faiz&theme=github_dark&hide=html,Objective-C,dart" /></td>
   </tr>
 </table>
