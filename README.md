@@ -9,10 +9,13 @@
 - **SLOP2020 Open Source Contributor**
 - **Third year undergrad student persuing B.Tech (information technology)**
 <!-- - **I'm currently looking for an Android Development Internship in Growing StartUp** -->  
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haid-Faiz&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <table>
   <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Haid-Faiz&count_private=true&show_icons=true&theme=github_dark"> </td>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haid-Faiz&theme=github_dark&hide=html,Objective-C,dart" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Haid-Faiz&count_private=true&show_icons=true&theme=github_dark&hide_border=true"> </td>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haid-Faiz&hide_border=true&theme=github_dark&hide=html,Objective-C,dart" /></td>
   </tr>
 </table>
 
