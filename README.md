@@ -4,7 +4,8 @@
 <img src="https://user-images.githubusercontent.com/56159740/145668468-410b7057-eb2f-42a4-a43a-29a678c4490f.png" height = "140" width="220">
 
 ## About me 👨🏽‍💻
-- **Android Development Intern @MathonGo**
+- **Android Engineering Intern @FamPay**
+- **Ex-Android Developer Intern @MathonGo**
 - **Ex-DSC RTU Android Co-Lead**
 - **SLOP2020 Open Source Contributor**
 - **Third year undergrad student persuing B.Tech (information technology)**
